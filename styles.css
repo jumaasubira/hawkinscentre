@@ -45,8 +45,8 @@ img { max-width: 100%; display: block; }
 }
 .brand { display: inline-flex; align-items: center; gap: 12px; min-width: 0; }
 .brand-mark {
-  width: 44px;
-  height: 44px;
+  width: 100px;
+  height: 100px;
   border: 2px solid currentColor;
   display: grid;
   place-items: center;
